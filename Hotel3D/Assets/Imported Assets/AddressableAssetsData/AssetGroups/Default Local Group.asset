@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 119012c592a230446bd27edd02d8d85e
+  m_SerializeEntries:
+  - m_GUID: 8ada9d8d9a1ad2c4297c6221d26f9e63
+    m_Address: Assets/Prefabs/RoomStorage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: acab26edcb0f65e468a72ef676c34fb6
+    m_Address: Assets/Prefabs/RoomService.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c3f751651ceec8479c3e0ab2bd4b836
+    m_Address: Assets/Prefabs/Servant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 625b1ae15218a0243a2416011a8e15af
+    m_Address: Assets/Prefabs/Enviroment Hall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 136851eee4f346945ace439d2309ef44
+    m_Address: Assets/Prefabs/Enviroment Hall 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d040d48ebfe6ef49b523c7afbe88676
+    m_Address: Assets/Prefabs/RoomLeft.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9d442474e0549a469cabfcb60298824
+    m_Address: Assets/Prefabs/RestRoomLeft.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6cd7a9545a90d0541b977a70b54db264
+    m_Address: Assets/Prefabs/RoomLeft (WithWall).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b4e35cdcc4fe974a97b881692621502
+    m_Address: Assets/Prefabs/RoomLeftUpgrade (WithWall).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b14e49bde6ed5745a663a2bb8d01ba6
+    m_Address: Assets/Prefabs/RoomLeftUpgrade.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62701fa7ef9602e41a498be2d022d3b6
+    m_Address: Assets/Prefabs/RoomRight.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: adfe14b66fa0ee74e88122461b247ef5
+    m_Address: Assets/Prefabs/RoomRight (WithWall).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c4929af0466639142a1e66d8bca41486
+    m_Address: Assets/Prefabs/RoomRightUpgrade (WithWall).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0a20b3f5e25a3549bbcf63c488ff46d
+    m_Address: Assets/Prefabs/RoomRightUpgrade.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e52f2de47fdba35449e3584d8fa7f3da
+    m_Address: Assets/Prefabs/RestRoomUp.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2d496c0c32da9d408afd399562b6f20
+    m_Address: Assets/Prefabs/RoomLeftUp (WithWall).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0bd2069ac686e6747a028b5bd9e84b75
+    m_Address: Assets/Prefabs/RoomLeftUp.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8caaca587be1b7b4fa4a87081c9b6f3e
+    m_Address: Assets/Prefabs/Rooms Up/RoomRightUpUpgrade.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0216e36de5c57b4aa47627c86c6e449
+    m_Address: Assets/Prefabs/RoomRightUp (WithWall).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b980c2dbf4d187e41b3672afff145e04
+    m_Address: Assets/Prefabs/RoomRightUp.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 182fe14239295c441a6b78e537b53f1c
+    m_Address: Assets/Prefabs/Rooms Up/RoomRightUpUpgrade (WithWall).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d332b4f3c176b95478365839a6204055
+    m_Address: Assets/Prefabs/Rooms Up/RoomLeftUpUpgrade (WithWall).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ca2ea0015f13684794f809e98709c2c
+    m_Address: Assets/Prefabs/DomesticRobot_1293.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1773d6b827b862847b36d4cba9037dde
+    m_Address: Assets/Prefabs/Receptionist.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ed620192acdd2043bf4f90b9175cbb8
+    m_Address: Assets/Prefabs/RoomServiceNPC.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8fc92c4f51436f9439575a79bb0c39d0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b678894f58343524f8145807d5080d6d, type: 2}
+    - {fileID: 11400000, guid: 5af9c2f502ab96f419f1c859a1029c01, type: 2}

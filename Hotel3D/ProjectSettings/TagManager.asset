@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Room
+  - Customer
+  - Money
+  - RestRoom
+  - Cleaner
+  - NavMesh
+  - Servant
+  - Toilet
+  - RoomService
+  - ToiletRollArea
+  - Data
+  - Remote
+  - Receptionist
+  - RoomServiceNeed
+  - RoomServiceRefill
+  - RoomServiceNPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - FloorMain
+  - FloorLeft
+  - FloorRight
+  - Obsticle
+  - NPC
+  - Player
+  - Money
+  - Cleaner
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
