@@ -5,7 +5,7 @@ Players begin their journey as the owner of a modest hotel, with the goal to gro
 
 ![alt text](https://github.com/eraiboluk/Hotel3D/blob/main/Hotel3D/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-03-27%20200237.png?raw=true)
 
-Key features of My Perfect Hotel include:
+Key features of Hotel3D include:
 
 - Reception and Receptionist NPC
 - Room Cleaning and Cleaner NPC
