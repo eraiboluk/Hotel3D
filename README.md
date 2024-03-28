@@ -13,3 +13,4 @@ Key features of Hotel3D include:
 - Facility Management and Facility Manager NPC
 - Room expantions
 - Area Expantions
+- Real Time Database for saving
